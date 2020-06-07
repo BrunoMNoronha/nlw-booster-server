@@ -59,10 +59,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/BrunoMNoronha/nlw-booster-server
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd nlw-booster-serve
 
 # Install dependencies
 $ yarn install
